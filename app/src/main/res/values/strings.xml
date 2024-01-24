@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">screenCast</string>
+    <string name="click_here">Click Here</string>
+    <string name="chrome_icon">Chrome Icon</string>
+    <string name="IP">Enter IP</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="enter_ip_addr">Enter IP Addr</string>
+</resources>
